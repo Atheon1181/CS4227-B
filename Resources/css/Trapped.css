@@ -1,0 +1,70 @@
+.playButton{
+    -fx-border-radius:20px;
+    -fx-background-color:transparent;
+    -fx-font-size:36px;
+}
+.playButton:hover,.leaderboard:hover,.timerButton:hover{
+    -fx-cursor:hand;
+    -fx-text-fill:green;
+    -fx-transition:all 1s;
+}
+.leaderboard{
+     -fx-background-color:transparent;
+        -fx-font-size:21px;
+}
+.playBoxHolder{
+    -fx-width:600px;
+    -fx-height:600px;
+    -fx-background-color:#1a303e;
+}
+.playBox{
+
+     -fx-background-color:rgba(201,201,201,0.6);
+
+}
+.playBox:hover{
+-fx-background-color:rgba(255,255,255,0.9);
+-fx-cursor:hand;
+}
+.modeBtn{
+-fx-background-color:transparent;
+}
+.modeTxt{
+  -fx-font-size:23px;
+}
+.nav-bar{
+ -fx-background-color:#1a303e;
+}
+.nav-btn{
+ -fx-background-color:transparent;
+ -fx-text-fill:rgba(255,255,255,0.6);
+        -fx-font-size:31px;
+}
+.nav-btn:hover{
+-fx-text-fill:white;
+-fx-cursor:hand;
+}
+.nav-btn2{
+ -fx-background-color:transparent;
+ -fx-text-fill:rgba(0,0,0,0.6);
+        -fx-font-size:31px;
+}
+.nav-btn2:hover{
+-fx-text-fill:black;
+-fx-cursor:hand;
+}
+.timerButton{
+ -fx-background-color:transparent;
+ -fx-text-fill:white;
+        -fx-font-size:31px;
+
+}
+.trappedButtons{
+ -fx-background-color:green;
+ -fx-text-fill:white;
+        -fx-font-size:26px;
+}
+.player_label{
+ -fx-text-fill:white;
+        -fx-font-size:20px;
+}

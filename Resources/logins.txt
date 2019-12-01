@@ -1,0 +1,6 @@
+john
+PASS
+adam
+WORD
+paul
+PATTERN
